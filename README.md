@@ -22,9 +22,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kathryn.schuler@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/kschuler"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/KathrynSchuler"}
+  - {title: Mail, icon: envelope, url: "}
+  - {title: Github, icon: github, url: ""}
+  - {title: Twitter, icon: twitter, url: ""}
 
 
 remote_theme: niklasbuschmann/contrast@v2.11
