@@ -21,9 +21,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: ""}
   - {title: Twitter, icon: twitter, url: ""}
 
-
-remote_theme: niklasbuschmann/contrast@v2.11
-
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
